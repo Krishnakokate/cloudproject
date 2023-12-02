@@ -1,0 +1,6 @@
+customhost = "cloudproject.czzyb2f8yygh.us-west-2.rds.amazonaws.com"
+customuser = "krishna"
+custompass = "cloudproject"
+customdb = "cloudproject"
+custombucket = "cloudbucket55"
+customregion = "us-west-2"
